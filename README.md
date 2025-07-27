@@ -42,7 +42,7 @@ A robust distributed task processing system built with FastAPI, Celery, RabbitMQ
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/ahmadhurayarah/FastAPI-Celery-Rabbitmq-Redis.git
 cd celery-rabbitmq
 ```
 
